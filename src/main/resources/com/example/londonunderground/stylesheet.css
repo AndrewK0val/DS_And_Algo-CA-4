@@ -1,0 +1,23 @@
+/*#viewPane{*/
+/*    -fx-border-style: inset;*/
+/*    -fx-border-color: #3C3C3C;*/
+/*    -fx-border-width: 7;*/
+/*    -fx-background-color: #434343;*/
+
+/*}*/
+
+
+#leftControlPane, #viewPane{
+
+    -fx-border-style: inset;
+    -fx-border-color: #303030;
+    -fx-border-width: 7;
+    -fx-background-color: #434343;
+
+}
+
+#leftBoxTop, #leftBoxMidlle, #leftBoxBottom{
+-fx-border-style: solid;
+
+
+}
