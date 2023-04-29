@@ -15,13 +15,13 @@ public class Station
 
     public String displayName;
 
-    public int zone;
+    public float zone;
 
     public int totalLines;
 
-    public int rail;
+    public boolean rail;
 
-    public Station(int id, float longitude, float latitude, String name, String displayName, int zone, int totalLines, int rail) {
+    public Station(int id, float longitude, float latitude, String name, String displayName, float zone, int totalLines, boolean rail) {
         this.id = id;
         this.longitude = longitude;
         this.latitude = latitude;
@@ -53,7 +53,7 @@ public class Station
         return displayName;
     }
 
-    public int getZone() {
+    public float getZone() {
         return zone;
     }
 
@@ -61,7 +61,7 @@ public class Station
         return totalLines;
     }
 
-    public int getRail() {
+    public boolean getRail() {
         return rail;
     }
 
@@ -85,7 +85,7 @@ public class Station
         this.displayName = displayName;
     }
 
-    public void setZone(int zone) {
+    public void setZone(float zone) {
         this.zone = zone;
     }
 
@@ -93,8 +93,21 @@ public class Station
         this.totalLines = totalLines;
     }
 
-    public void setRail(int rail) {
+    public void setRail(boolean rail) {
         this.rail = rail;
     }
 
+    @Override
+    public String toString() {
+        return "Station{" +
+                "id=" + id +
+                ", longitude=" + longitude +
+                ", latitude=" + latitude +
+                ", name='" + name + '\'' +
+                ", displayName='" + displayName + '\'' +
+                ", zone=" + zone +
+                ", totalLines=" + totalLines +
+                ", rail=" + rail +
+                '}';
+    }
 }

@@ -100,6 +100,7 @@
                   <Button fx:id="planJounreyButton" layoutX="46.0" layoutY="146.0" mnemonicParsing="false" onAction="#calculateJourney" prefHeight="30.0" prefWidth="106.0" text="Plan Journey" textFill="RED" />
                   <Button fx:id="clearJourneyButton" alignment="CENTER" contentDisplay="TOP" layoutX="266.0" layoutY="148.0" mnemonicParsing="false" onAction="#clearJourney" prefHeight="30.0" prefWidth="115.0" text="Clear Journey" />
                   <Button fx:id="ShortestDisButton" layoutX="171.0" layoutY="79.0" mnemonicParsing="false" onAction="#calculateShortestPath" prefHeight="30.0" prefWidth="106.0" text="Shortest Route" />
+                  <Button fx:id="printStations" layoutX="46.0" layoutY="94.0" mnemonicParsing="false" onAction="#printStations" prefHeight="30.0" prefWidth="106.0" text="stations toString" textFill="RED" />
                </children>
             </AnchorPane>
          </children>
