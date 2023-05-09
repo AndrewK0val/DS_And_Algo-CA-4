@@ -14,7 +14,4 @@ public class AdjacencyMatrix {
         nodes = (GraphNodeAM<?>[]) Array.newInstance(GraphNodeAM.class, size);
     }
 
-
-
-
 }
