@@ -1,4 +1,4 @@
-package models;
+package com.example.londonunderground.models;
 import javafx.scene.paint.Color;
 // Backslash for Shane to copy --------------> \ <-----------------
 public class Route {

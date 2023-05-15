@@ -1,0 +1,114 @@
+2,51.5143,-0.0755,Aldgate,0,Circle Line,f7dc00,881,236
+2,51.5143,-0.0755,Aldgate,0,Metropolitan Line,8b004c,881,236
+3,51.5154,-0.0726,Aldgate East,0,District Line,0d6928,899,224
+3,51.5154,-0.0726,Aldgate East,0,Hammersmith & City Line,f5a6b3,899,224
+7,51.5322,-0.1058,Angel,0,Northern Line,000000,685,53
+11,51.5226,-0.1571,Baker Street,0,Bakerloo Line,ab6612,361,150
+11,51.5226,-0.1571,Baker Street,0,Metropolitan Line,8b004c,361,150
+11,51.5226,-0.1571,Baker Street,0,Hammersmith & City Line,f5a6b3,361,150
+11,51.5226,-0.1571,Baker Street,0,Jubilee Line,767b7f,361,150
+13,51.5133,-0.0886,Bank,0,Central Line,df002c,797,245
+13,51.5133,-0.0886,Bank,0,Northern Line,000000,797,245
+13,51.5133,-0.0886,Bank,0,Waterloo & City Line,89cbc1,797,245
+14,51.5204,-0.0979,Barbican,0,Circle Line,f7dc00,738,173
+14,51.5204,-0.0979,Barbican,0,Metropolitan Line,8b004c,738,173
+14,51.5204,-0.0979,Barbican,0,Hammersmith & City Line,f5a6b3,738,173
+18,51.5121,-0.1879,Bayswater,0,Circle Line,f7dc00,165,257
+18,51.5121,-0.1879,Bayswater,0,District Line,0d6928,165,257
+25,51.512,-0.1031,Blackfriars,0,Circle Line,f7dc00,705,258
+25,51.512,-0.1031,Blackfriars,0,District Line,0d6928,705,258
+28,51.5142,-0.1494,Bond Street,0,Central Line,df002c,410,236
+28,51.5142,-0.1494,Bond Street,0,Jubilee Line,767b7f,410,236
+29,51.5011,-0.0943,Borough,0,Northern Line,000000,760,372
+44,51.5113,-0.0904,Cannon Street,0,Circle Line,f7dc00,786,266
+44,51.5113,-0.0904,Cannon Street,0,District Line,0d6928,786,266
+48,51.5185,-0.1111,Chancery Lane,0,Central Line,df002c,655,192
+49,51.508,-0.1247,Charing Cross,1,Bakerloo Line,ab6612,567,300
+49,51.508,-0.1247,Charing Cross,1,Northern Line,000000,583,305
+60,51.5129,-0.1243,Covent Garden,0,Picadilly Line,002d73,572,250
+87,51.5074,-0.1223,Embankment,0,Bakerloo Line,ab6612,583,306
+87,51.5074,-0.1223,Embankment,0,Circle Line,f7dc00,583,306
+87,51.5074,-0.1223,Embankment,0,District Line,0d6928,583,306
+87,51.5074,-0.1223,Embankment,0,Northern Line,000000,583,306
+89,51.5282,-0.1337,Euston,1,Victoria Line,0076bd,509,94
+89,51.5282,-0.1337,Euston,1,Northern Line,000000,509,94
+90,51.526,-0.1359,Euston Square,0,Circle Line,f7dc00,496,117
+90,51.526,-0.1359,Euston Square,0,Metropolitan Line,8b004c,496,117
+90,51.526,-0.1359,Euston Square,0,Hammersmith & City Line,f5a6b3,496,117
+92,51.5203,-0.1053,Farringdon,1,Circle Line,f7dc00,691,174
+92,51.5203,-0.1053,Farringdon,1,Metropolitan Line,8b004c,691,174
+92,51.5203,-0.1053,Farringdon,1,Hammersmith & City Line,f5a6b3,691,174
+99,51.4945,-0.1829,Gloucester Road,0,Picadilly Line,002d73,197,437
+99,51.4945,-0.1829,Gloucester Road,0,Circle Line,f7dc00,197,437
+99,51.4945,-0.1829,Gloucester Road,0,District Line,0d6928,197,437
+102,51.5205,-0.1347,Goodge Street,0,Northern Line,000000,505,172
+104,51.5238,-0.1439,Great Portland Street,0,Circle Line,f7dc00,445,138
+104,51.5238,-0.1439,Great Portland Street,0,Metropolitan Line,8b004c,445,138
+104,51.5238,-0.1439,Great Portland Street,0,Hammersmith & City Line,f5a6b3,445,138
+107,51.5067,-0.1428,Green Park,0,Picadilly Line,002d73,452,313
+107,51.5067,-0.1428,Green Park,0,Victoria Line,0076bd,452,313
+107,51.5067,-0.1428,Green Park,0,Jubilee Line,767b7f,452,313
+122,51.5009,-0.1925,High Street Kensington,0,Circle Line,f7dc00,135,371
+122,51.5009,-0.1925,High Street Kensington,0,District Line,0d6928,135,371
+126,51.5174,-0.12,Holborn,0,Central Line,df002c,597,204
+126,51.5174,-0.12,Holborn,0,Picadilly Line,002d73,597,204
+133,51.5027,-0.1527,Hyde Park Corner,0,Picadilly Line,002d73,389,353
+145,51.5308,-0.1238,King's Cross St. Pancras,1,Picadilly Line,002d73,572,67
+145,51.5308,-0.1238,King's Cross St. Pancras,1,Victoria Line,0076bd,572,67
+145,51.5308,-0.1238,King's Cross St. Pancras,1,Northern Line,000000,572,67
+146,51.5015,-0.1607,Knightsbridge,0,Picadilly Line,002d73,338,363
+148,51.4991,-0.1115,Lambeth North,0,Bakerloo Line,ab6612,650,390
+149,51.5119,-0.1756,Lancaster Gate,0,Central Line,df002c,242,259
+151,51.5113,-0.1281,Leicester Square,0,Picadilly Line,002d73,546,266
+151,51.5113,-0.1281,Leicester Square,0,Northern Line,000000,546,266
+156,51.5178,-0.0823,Liverpool Street,1,Central Line,df002c,837,199
+156,51.5178,-0.0823,Liverpool Street,1,Circle Line,f7dc00,837,199
+156,51.5178,-0.0823,Liverpool Street,1,Metropolitan Line,8b004c,837,199
+156,51.5178,-0.0823,Liverpool Street,1,Hammersmith & City Line,f5a6b3,837,199
+156,51.5178,-0.0823,Liverpool Street,1,Northern Line,000000,837,199
+157,51.5052,-0.0864,London Bridge,1,Jubilee Line,767b7f,811,328
+157,51.5052,-0.0864,London Bridge,1,Northern Line,000000,811,328
+161,51.5122,-0.094,Mansion House,0,Circle Line,f7dc00,764,259
+161,51.5122,-0.094,Mansion House,0,District Line,0d6928,764,259
+162,51.5136,-0.1586,Marble Arch,0,Central Line,df002c,352,242
+163,51.5225,-0.1631,Marylebone,1,Bakerloo Line,ab6612,323,151
+167,51.5186,-0.0886,Moorgate,1,Circle Line,f7dc00,797,192
+167,51.5186,-0.0886,Moorgate,1,Metropolitan Line,8b004c,797,192
+167,51.5186,-0.0886,Moorgate,1,Hammersmith & City Line,f5a6b3,797,192
+188,51.5263,-0.0873,Old Street,1,Northern Line,000000,805,112
+192,51.515,-0.1415,Oxford Circus,0,Central Line,df002c,460,227
+192,51.515,-0.1415,Oxford Circus,0,Victoria Line,0076bd,460,227
+193,51.5154,-0.1755,Paddington,1,Bakerloo Line,ab6612,244,224
+193,51.5154,-0.1755,Paddington,1,Circle Line,f7dc00,242,212
+193,51.5154,-0.1755,Paddington,1,Circle Line,f7dc00,244,224
+193,51.5154,-0.1755,Paddington,1,Circle Line,f7dc00,244,224
+193,51.5154,-0.1755,Paddington,1,District Line,0d6928,244,224
+193,51.5154,-0.1755,Paddington,1,Hammersmith & City Line,f5a6b3,242,212
+208,51.5107,-0.1877,Queensway,0,Central Line,df002c,164,272
+212,51.5234,-0.1466,Regent's Park,0,Bakerloo Line,ab6612,392,141
+223,51.523,-0.1244,Russell Square,0,Picadilly Line,002d73,568,145
+229,51.4924,-0.1565,Sloane Square,0,Circle Line,f7dc00,365,459
+229,51.4924,-0.1565,Sloane Square,0,District Line,0d6928,365,459
+236,51.4941,-0.1738,South Kensington,0,Picadilly Line,002d73,254,441
+236,51.4941,-0.1738,South Kensington,0,Circle Line,f7dc00,254,441
+236,51.4941,-0.1738,South Kensington,0,District Line,0d6928,254,441
+250,51.5146,-0.0973,St. Paul's,0,Central Line,df002c,743,232
+255,51.5111,-0.1141,Temple,0,Circle Line,f7dc00,635,268
+255,51.5111,-0.1141,Temple,0,District Line,0d6928,635,268
+259,51.5165,-0.131,Tottenham Court Road,0,Central Line,df002c,527,213
+259,51.5165,-0.131,Tottenham Court Road,0,Northern Line,000000,527,213
+263,51.5098,-0.0766,Tower Hill,0,Circle Line,f7dc00,874,281
+263,51.5098,-0.0766,Tower Hill,0,District Line,0d6928,874,281
+273,51.4965,-0.1447,Victoria,1,Circle Line,f7dc00,440,416
+273,51.4965,-0.1447,Victoria,1,Victoria Line,0076bd,440,416
+273,51.4965,-0.1447,Victoria,1,District Line,0d6928,440,416
+277,51.5247,-0.1384,Warren Street,0,Victoria Line,0076bd,480,132
+277,51.5247,-0.1384,Warren Street,0,Northern Line,000000,480,132
+279,51.5036,-0.1143,Waterloo,1,Bakerloo Line,ab6612,633,344
+279,51.5036,-0.1143,Waterloo,1,Jubilee Line,767b7f,633,344
+279,51.5036,-0.1143,Waterloo,1,Northern Line,000000,633,344
+279,51.5036,-0.1143,Waterloo,1,Waterloo & City Line,89cbc1,633,344
+285,51.501,-0.1254,Westminster,0,Circle Line,f7dc00,563,371
+285,51.501,-0.1254,Westminster,0,District Line,0d6928,563,371
+285,51.501,-0.1254,Westminster,0,Jubilee Line,767b7f,563,371
+233,51.504,-0.1052,Southwark,0,Jubilee Line,767b7f,693,341

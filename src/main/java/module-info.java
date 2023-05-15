@@ -7,8 +7,9 @@ module com.example.londonunderground {
 
     opens com.example.londonunderground to javafx.fxml;
     exports com.example.londonunderground;
-    exports controller;
-    opens controller to javafx.fxml;
+    exports com.example.londonunderground.models;
+    exports com.example.londonunderground.controller;
+    opens com.example.londonunderground.controller to javafx.fxml;
 //    exports com.example.londonunderground;
 //    opens com.example.londonunderground to javafx.fxml;
 }

@@ -1,4 +1,4 @@
-package models;
+package com.example.londonunderground.models;
 // Backslash for Shane to copy --------------> \ <-----------------
 
 
